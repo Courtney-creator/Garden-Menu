@@ -158,8 +158,8 @@ const FOOD_MENU: FoodItem[] = [
 { id: 28, name: 'Kienyeji Chicken', category: 'Grills', price: '½kg KES 1,100 · Full KES 2,800', description: 'Free-range kienyeji chicken, slow-cooked for deep flavor.', image: IMG.kienyeji },
 { id: 30, name: 'Whole Tilapia', category: 'Grills', price: 'KES 1,250', description: 'Whole tilapia, deep-fried crispy and served with ugali and greens.', image: IMG.tilapia },
 { id: 31, name: 'Beef Brisket', category: 'Grills', price: 'KES 2,800', description: 'Slow-cooked, melt-in-your-mouth brisket in a rich house gravy.', image: IMG.brisket },
-{ id: 32, name: 'Pork Ribs', category: 'Grills', price: 'KES 1,500', description: 'Fall-off-the-bone pork ribs glazed in smoky-sweet BBQ.', image: IMG.ribs },
-{ id: 33, name: 'Chicken Legs', category: 'Grills', price: 'KES 800', description: 'Plump chicken legs in bold spices, open-flame grilled.', image: IMG.chickenLegs },
+{ id: 32, name: 'Pork Ribs', category: 'Grills', price: '800grms KES 1,500', description: 'Fall-off-the-bone pork ribs glazed in smoky-sweet BBQ and Fries on the side.', image: IMG.ribs },
+{ id: 33, name: 'Chicken Legs', category: 'Grills', price: 'KES 800', description: 'Plump chicken legs in bold spices, open-flame grilled and Fries on the side.', image: IMG.chickenLegs },
 
   // SNACKS
   { id: 50, name: 'Chicken Wings',        category: 'Snacks', price: 'KES 800', description: 'Crispy fried wings tossed in our house BBQ sauce.',                          image: IMG.wings },
